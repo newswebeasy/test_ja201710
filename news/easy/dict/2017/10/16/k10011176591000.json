@@ -1,0 +1,112 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>毛</rb><rt>け</rt></ruby>がついている<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>皮</rb><rt>かわ</rt></ruby>。",
+          "hyouki": [
+            "毛皮"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "イタチに<ruby><rb>似</rb><rt>に</rt></ruby>たけもの。<ruby><rb>毛</rb><rt>け</rt></ruby>は<ruby><rb>黒茶色</rb><rt>くろちゃいろ</rt></ruby>でやわらかく、つやがあるので、<ruby><rb>高級</rb><rt>こうきゅう</rt></ruby>な<ruby><rb>毛皮</rb><rt>けがわ</rt></ruby>にされる。",
+          "hyouki": [
+            "ミンク"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>耳</rb><rt>みみ</rt></ruby>が<ruby><rb>長</rb><rt>なが</rt></ruby>い<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>野山</rb><rt>のやま</rt></ruby>にすむノウサギ、<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>飼</rb><rt>か</rt></ruby>われたりするシロウサギ・アンゴラウサギなどがいる。ぴょんぴょんと、はねながら<ruby><rb>走</rb><rt>はし</rt></ruby>る。",
+          "hyouki": [
+            "兎"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>害</rb><rt>がい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けないように、<ruby><rb>防</rb><rt>ふせ</rt></ruby>ぐ。",
+          "hyouki": [
+            "守る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>決</rb><rt>き</rt></ruby>めたとおりにする。",
+          "hyouki": [
+            "守る"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>元気</rb><rt>げんき</rt></ruby>よく<ruby><rb>動</rb><rt>うご</rt></ruby>いたり、<ruby><rb>働</rb><rt>はたら</rt></ruby>いたりすること。",
+          "hyouki": [
+            "活動"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>大勢</rb><rt>おおぜい</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        },
+        {
+          "def": "<ruby><rb>同</rb><rt>おな</rt></ruby>じ<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>持</rb><rt>も</rt></ruby>った<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "団体"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>商標</rb><rt>しょうひょう</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        },
+        {
+          "def": "すぐれた<ruby><rb>製品</rb><rt>せいひん</rt></ruby>で<ruby><rb>知</rb><rt>し</rt></ruby>られた<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>。また、そこで<ruby><rb>作</rb><rt>つく</rt></ruby>られた<ruby><rb>商品</rb><rt>しょうひん</rt></ruby>。",
+          "hyouki": [
+            "ブランド"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>や<ruby><rb>生</rb><rt>い</rt></ruby>き<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>巻</rb><rt>ま</rt></ruby>き、<ruby><rb>影響</rb><rt>えいきょう</rt></ruby>をあたえる<ruby><rb>周</rb><rt>まわ</rt></ruby>りの<ruby><rb>世界</rb><rt>せかい</rt></ruby>。",
+          "hyouki": [
+            "環境"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>一生懸命</rb><rt>いっしょうけんめい</rt></ruby>にすること。",
+          "hyouki": [
+            "努力"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>買</rb><rt>か</rt></ruby>い<ruby><rb>手</rb><rt>て</rt></ruby>に<ruby><rb>競争</rb><rt>きょうそう</rt></ruby>で<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけさせ、いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>い<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をつけた<ruby><rb>人</rb><rt>ひと</rt></ruby>に、その<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>売</rb><rt>う</rt></ruby>る<ruby><rb>方法</rb><rt>ほうほう</rt></ruby>。<ruby><rb>競売</rb><rt>きょうばい</rt></ruby>。オークション。せり。",
+          "hyouki": [
+            "競り売り"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "（おおやけの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>・<ruby><rb>寺</rb><rt>てら</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>仕事</rb><rt>しごと</rt></ruby>を<ruby><rb>助</rb><rt>たす</rt></ruby>けるために）お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "寄付"
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,198 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>水辺</rb><rt>みずべ</rt></ruby>にすむ<ruby><rb>小形</rb><rt>こがた</rt></ruby>の<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>。<ruby><rb>足</rb><rt>あし</rt></ruby>に<ruby><rb>水</rb><rt>みず</rt></ruby>かきがあり、<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎながら<ruby><rb>小動物</rb><rt>しょうどうぶつ</rt></ruby>をつかまえて<ruby><rb>食</rb><rt>た</rt></ruby>べる。<ruby><rb>特別天然記念物</rb><rt>とくべつてんねんきねんぶつ</rt></ruby>。",
+          "hyouki": [
+            "かわうそ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが、<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>時</rb><rt>とき</rt></ruby>がたつ。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "うかんで<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>広</rb><rt>ひろ</rt></ruby>がって<ruby><rb>行</rb><rt>い</rt></ruby>く。",
+          "hyouki": [
+            "流れる"
+          ]
+        },
+        {
+          "def": "とりやめになる。",
+          "hyouki": [
+            "流れる"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "「ビデオテープ」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        },
+        {
+          "def": "<ruby><rb>映像</rb><rt>えいぞう</rt></ruby>や<ruby><rb>音</rb><rt>おと</rt></ruby>を、<ruby><rb>磁気</rb><rt>じき</rt></ruby>テープに<ruby><rb>記録</rb><rt>きろく</rt></ruby>したり<ruby><rb>再生</rb><rt>さいせい</rt></ruby>したりする<ruby><rb>装置</rb><rt>そうち</rt></ruby>。",
+          "hyouki": [
+            "ビデオ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>動植物</rb><rt>どうしょくぶつ</rt></ruby>が、<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>野原</rb><rt>のはら</rt></ruby>でしぜんに<ruby><rb>育</rb><rt>そだ</rt></ruby>ち、<ruby><rb>生</rb><rt>い</rt></ruby>きていること。",
+          "hyouki": [
+            "野生"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "（<ruby><rb>下</rb><rt>した</rt></ruby>の<ruby><rb>字</rb><rt>じ</rt></ruby>や<ruby><rb>絵</rb><rt>え</rt></ruby>が）すけて<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+          "hyouki": [
+            "写る"
+          ]
+        },
+        {
+          "def": "<ruby><rb>写真</rb><rt>しゃしん</rt></ruby>にとられる。",
+          "hyouki": [
+            "写る"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>公害</rb><rt>こうがい</rt></ruby>をなくし、<ruby><rb>自然</rb><rt>しぜん</rt></ruby>を<ruby><rb>守</rb><rt>まも</rt></ruby>る<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。",
+          "hyouki": [
+            "環境省"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "その<ruby><rb>状態</rb><rt>じょうたい</rt></ruby>になりそうなようす。できそうなようす。",
+          "hyouki": [
+            "可能性"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>事実</rb><rt>じじつ</rt></ruby>を<ruby><rb>明</rb><rt>あき</rt></ruby>らかにするために、<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "調査"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>消化</rb><rt>しょうか</rt></ruby>したあと、<ruby><rb>体外</rb><rt>たいがい</rt></ruby>に<ruby><rb>出</rb><rt>だ</rt></ruby>されるもの。<ruby><rb>大便</rb><rt>だいべん</rt></ruby>。",
+          "hyouki": [
+            "糞"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>生物</rb><rt>せいぶつ</rt></ruby>の<ruby><rb>細胞</rb><rt>さいぼう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>にあって、<ruby><rb>遺伝子</rb><rt>いでんし</rt></ruby>を<ruby><rb>構成</rb><rt>こうせい</rt></ruby>する<ruby><rb>物質</rb><rt>ぶっしつ</rt></ruby>。",
+          "hyouki": [
+            "DNA"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "あることがもとになって<ruby><rb>起</rb><rt>お</rt></ruby>こったことがらやようす。",
+          "hyouki": [
+            "結果"
+          ]
+        }
+      ],
+      "0011": [
+        {
+          "def": "<ruby><rb>動物</rb><rt>どうぶつ</rt></ruby>の<ruby><rb>男性</rb><rt>だんせい</rt></ruby>にあたるもの。",
+          "hyouki": [
+            "雄"
+          ]
+        }
+      ],
+      "0012": [
+        {
+          "def": "<ruby><rb>横</rb><rt>よこ</rt></ruby>の<ruby><rb>長</rb><rt>なが</rt></ruby>さ。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "へだたり。<ruby><rb>開</rb><rt>ひら</rt></ruby>き。",
+          "hyouki": [
+            "幅"
+          ]
+        },
+        {
+          "def": "ゆとり。よゆう。",
+          "hyouki": [
+            "幅"
+          ]
+        }
+      ],
+      "0013": [
+        {
+          "def": "<ruby><rb>歩</rb><rt>ある</rt></ruby>いたあとに<ruby><rb>残</rb><rt>のこ</rt></ruby>る<ruby><rb>足</rb><rt>あし</rt></ruby>のあと。",
+          "hyouki": [
+            "足跡"
+          ]
+        },
+        {
+          "def": "にげた<ruby><rb>道筋</rb><rt>みちすじ</rt></ruby>。",
+          "hyouki": [
+            "足跡"
+          ]
+        },
+        {
+          "def": "<ruby><rb>今</rb><rt>いま</rt></ruby>までにやってきたこと。",
+          "hyouki": [
+            "足跡"
+          ]
+        }
+      ],
+      "0014": [
+        {
+          "def": "<ruby><rb>大学</rb><rt>だいがく</rt></ruby>の<ruby><rb>先生</rb><rt>せんせい</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        },
+        {
+          "def": "<ruby><rb>人</rb><rt>ひと</rt></ruby>にものを<ruby><rb>教</rb><rt>おし</rt></ruby>えること。また、その<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "教授"
+          ]
+        }
+      ]
+    }
+  }
+}

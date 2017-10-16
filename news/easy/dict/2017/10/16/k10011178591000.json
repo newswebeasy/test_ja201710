@@ -1,0 +1,128 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>地震</rb><rt>じしん</rt></ruby>などのために、<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>波</rb><rt>なみ</rt></ruby>が<ruby><rb>急</rb><rt>きゅう</rt></ruby>に<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>におし<ruby><rb>寄</rb><rt>よ</rt></ruby>せてくること。",
+          "hyouki": [
+            "津波"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>損害</rb><rt>そんがい</rt></ruby>を<ruby><rb>受</rb><rt>う</rt></ruby>けること。また、<ruby><rb>受</rb><rt>う</rt></ruby>けた<ruby><rb>害</rb><rt>がい</rt></ruby>。",
+          "hyouki": [
+            "被害"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>液体</rb><rt>えきたい</rt></ruby>などが<ruby><rb>低</rb><rt>ひく</rt></ruby>いほうへ<ruby><rb>動</rb><rt>うご</rt></ruby>くようにする。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>水</rb><rt>みず</rt></ruby>などにうかべて<ruby><rb>動</rb><rt>うご</rt></ruby>かす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "よごれを<ruby><rb>洗</rb><rt>あら</rt></ruby>い<ruby><rb>落</rb><rt>お</rt></ruby>とす。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "うわさなどを<ruby><rb>広</rb><rt>ひろ</rt></ruby>める。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>予定</rb><rt>よてい</rt></ruby>していたことを、<ruby><rb>取</rb><rt>と</rt></ruby>りやめる。",
+          "hyouki": [
+            "流す"
+          ]
+        },
+        {
+          "def": "そのことを<ruby><rb>気</rb><rt>き</rt></ruby>に<ruby><rb>留</rb><rt>と</rt></ruby>めない。",
+          "hyouki": [
+            "流す"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>神社</rb><rt>じんじゃ</rt></ruby>の<ruby><rb>祭</rb><rt>まつ</rt></ruby>りのときにかつぐもの。<ruby><rb>中</rb><rt>なか</rt></ruby>にご<ruby><rb>神体</rb><rt>しんたい</rt></ruby>が<ruby><rb>入</rb><rt>はい</rt></ruby>っている。おみこし。",
+          "hyouki": [
+            "みこし"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>腕</rb><rt>うで</rt></ruby>のつけねの<ruby><rb>上</rb><rt>うえ</rt></ruby>。",
+          "hyouki": [
+            "肩"
+          ]
+        },
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>の、<ruby><rb>上</rb><rt>うえ</rt></ruby>のかど。",
+          "hyouki": [
+            "肩"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "ぶつ。なぐる。",
+          "hyouki": [
+            "たたく"
+          ]
+        },
+        {
+          "def": "<ruby><rb>打</rb><rt>う</rt></ruby>って<ruby><rb>音</rb><rt>おと</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>す。",
+          "hyouki": [
+            "たたく"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪口</rb><rt>わるくち</rt></ruby>を<ruby><rb>言</rb><rt>い</rt></ruby>って、やっつける。",
+          "hyouki": [
+            "たたく"
+          ]
+        },
+        {
+          "def": "やたらにしゃべる。",
+          "hyouki": [
+            "たたく"
+          ]
+        },
+        {
+          "def": "<ruby><rb>値段</rb><rt>ねだん</rt></ruby>をまけさせる。",
+          "hyouki": [
+            "たたく"
+          ]
+        }
+      ]
+    }
+  }
+}
