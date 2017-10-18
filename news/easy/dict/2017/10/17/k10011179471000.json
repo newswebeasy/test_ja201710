@@ -1,0 +1,54 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>鉄</rb><rt>てつ</rt></ruby>のレールをしいて、<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>を<ruby><rb>走</rb><rt>はし</rt></ruby>らせる<ruby><rb>交通機関</rb><rt>こうつうきかん</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>では、１８７２<ruby><rb>年</rb><rt>ねん</rt></ruby>（<ruby><rb>明治</rb><rt>めいじ</rt></ruby>５<ruby><rb>年</rb><rt>ねん</rt></ruby>）に<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>の<ruby><rb>新橋</rb><rt>しんばし</rt></ruby>と<ruby><rb>横浜</rb><rt>よこはま</rt></ruby>の<ruby><rb>間</rb><rt>あいだ</rt></ruby>に<ruby><rb>初</rb><rt>はじ</rt></ruby>めて<ruby><rb>開通</rb><rt>かいつう</rt></ruby>した。",
+          "hyouki": [
+            "鉄道"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>電車</rb><rt>でんしゃ</rt></ruby>・<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>などのこと。また、その<ruby><rb>一台</rb><rt>いちだい</rt></ruby><ruby><rb>一台</rb><rt>いちだい</rt></ruby>。",
+          "hyouki": [
+            "車両"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "たくさんの<ruby><rb>人</rb><rt>ひと</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まり<ruby><rb>住</rb><rt>す</rt></ruby>んでいる<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>町</rb><rt>まち</rt></ruby>。<ruby><rb>都会</rb><rt>とかい</rt></ruby>。",
+          "hyouki": [
+            "都市"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>一時間</rb><rt>いちじかん</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>む<ruby><rb>速</rb><rt>はや</rt></ruby>さ。",
+          "hyouki": [
+            "時速"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>のおもな<ruby><rb>都市</rb><rt>とし</rt></ruby>を<ruby><rb>結</rb><rt>むす</rt></ruby>んで、<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>人</rb><rt>ひと</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶための<ruby><rb>高速鉄道</rb><rt>こうそくてつどう</rt></ruby>。<ruby><rb>東海道新幹線</rb><rt>とうかいどうしんかんせん</rt></ruby>、<ruby><rb>山陽新幹線</rb><rt>さんようしんかんせん</rt></ruby>、<ruby><rb>上越新幹線</rb><rt>じょうえつしんかんせん</rt></ruby>、<ruby><rb>長野新幹線</rb><rt>ながのしんかんせん</rt></ruby>、<ruby><rb>東北新幹線</rb><rt>とうほくしんかんせん</rt></ruby>、<ruby><rb>山形新幹線</rb><rt>やまがたしんかんせん</rt></ruby>、<ruby><rb>秋田新幹線</rb><rt>あきたしんかんせん</rt></ruby>、<ruby><rb>九州新幹線</rb><rt>きゅうしゅうしんかんせん</rt></ruby>がある。",
+          "hyouki": [
+            "新幹線"
+          ]
+        }
+      ]
+    }
+  }
+}

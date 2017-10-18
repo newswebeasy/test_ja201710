@@ -1,0 +1,86 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「テロリズム」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>政治的</rb><rt>せいじてき</rt></ruby>な<ruby><rb>目的</rb><rt>もくてき</rt></ruby>を<ruby><rb>成</rb><rt>な</rt></ruby>しとげるためには、<ruby><rb>人</rb><rt>ひと</rt></ruby>の<ruby><rb>命</rb><rt>いのち</rt></ruby>をうばうような<ruby><rb>暴力</rb><rt>ぼうりょく</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>ってもよいとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え。また、そのような<ruby><rb>考</rb><rt>かんが</rt></ruby>えで<ruby><rb>起</rb><rt>お</rt></ruby>こす<ruby><rb>事件</rb><rt>じけん</rt></ruby>。",
+          "hyouki": [
+            "テロ"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ある<ruby><rb>土地</rb><rt>とち</rt></ruby>やそこに<ruby><rb>住</rb><rt>す</rt></ruby>む<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>を<ruby><rb>治</rb><rt>おさ</rt></ruby>めること。",
+          "hyouki": [
+            "支配"
+          ]
+        },
+        {
+          "def": "ものごとを<ruby><rb>思</rb><rt>おも</rt></ruby>うように<ruby><rb>動</rb><rt>うご</rt></ruby>かすこと。",
+          "hyouki": [
+            "支配"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "その<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>議会</rb><rt>ぎかい</rt></ruby>や<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>のある<ruby><rb>都市</rb><rt>とし</rt></ruby>。<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>東京</rb><rt>とうきょう</rt></ruby>、アメリカのワシントンなど。<ruby><rb>首府</rb><rt>しゅふ</rt></ruby>。",
+          "hyouki": [
+            "首都"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>返</rb><rt>かえ</rt></ruby>す。",
+          "hyouki": [
+            "取り戻す"
+          ]
+        },
+        {
+          "def": "<ruby><rb>回復</rb><rt>かいふく</rt></ruby>する。",
+          "hyouki": [
+            "取り戻す"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>をする。",
+          "hyouki": [
+            "戦う"
+          ]
+        },
+        {
+          "def": "わざを<ruby><rb>比</rb><rt>くら</rt></ruby>べて、<ruby><rb>勝</rb><rt>か</rt></ruby>ち<ruby><rb>負</rb><rt>ま</rt></ruby>けを<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "戦う"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>多</rb><rt>おお</rt></ruby>くの<ruby><rb>人</rb><rt>ひと</rt></ruby>に<ruby><rb>広</rb><rt>ひろ</rt></ruby>く<ruby><rb>知</rb><rt>し</rt></ruby>らせること。",
+          "hyouki": [
+            "発表"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>。<ruby><rb>兵隊</rb><rt>へいたい</rt></ruby>の<ruby><rb>集</rb><rt>あつ</rt></ruby>まり。",
+          "hyouki": [
+            "軍"
+          ]
+        },
+        {
+          "def": "<ruby><rb>戦</rb><rt>たたか</rt></ruby>い。<ruby><rb>戦争</rb><rt>せんそう</rt></ruby>。",
+          "hyouki": [
+            "軍"
+          ]
+        }
+      ]
+    }
+  }
+}

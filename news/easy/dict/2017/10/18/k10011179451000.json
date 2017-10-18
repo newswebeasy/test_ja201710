@@ -1,0 +1,56 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>気象庁</rb><rt>きしょうちょう</rt></ruby>から<ruby><rb>出</rb><rt>だ</rt></ruby>されるデータをもとに、<ruby><rb>天気予報</rb><rt>てんきよほう</rt></ruby>を<ruby><rb>行</rb><rt>おこな</rt></ruby>う<ruby><rb>資格</rb><rt>しかく</rt></ruby>をもっている<ruby><rb>人</rb><rt>ひと</rt></ruby>。",
+          "hyouki": [
+            "気象予報士"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>学校</rb><rt>がっこう</rt></ruby>や<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>の<ruby><rb>試験</rb><rt>しけん</rt></ruby>に<ruby><rb>受</rb><rt>う</rt></ruby>かること。パス。",
+          "hyouki": [
+            "合格"
+          ]
+        },
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>などが<ruby><rb>決</rb><rt>き</rt></ruby>められたことがらに<ruby><rb>合</rb><rt>あ</rt></ruby>っていること。",
+          "hyouki": [
+            "合格"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "あとのために<ruby><rb>書</rb><rt>か</rt></ruby>きつけておくこと。また、<ruby><rb>書</rb><rt>か</rt></ruby>きつけたもの。",
+          "hyouki": [
+            "記録"
+          ]
+        },
+        {
+          "def": "<ruby><rb>運動競技</rb><rt>うんどうきょうぎ</rt></ruby>などの<ruby><rb>最高</rb><rt>さいこう</rt></ruby>の<ruby><rb>成績</rb><rt>せいせき</rt></ruby>。レコード。",
+          "hyouki": [
+            "記録"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>疑</rb><rt>うたが</rt></ruby>わしいこと。<ruby><rb>疑</rb><rt>うたが</rt></ruby>い。",
+          "hyouki": [
+            "疑問"
+          ]
+        },
+        {
+          "def": "わからないこと。",
+          "hyouki": [
+            "疑問"
+          ]
+        }
+      ]
+    }
+  }
+}

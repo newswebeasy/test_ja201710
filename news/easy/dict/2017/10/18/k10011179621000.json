@@ -1,0 +1,70 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>実際</rb><rt>じっさい</rt></ruby>にためしてみること。",
+          "hyouki": [
+            "実験"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>川</rb><rt>かわ</rt></ruby>・<ruby><rb>道路</rb><rt>どうろ</rt></ruby>・<ruby><rb>建物</rb><rt>たてもの</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>や、<ruby><rb>交通</rb><rt>こうつう</rt></ruby>・<ruby><rb>荷物</rb><rt>にもつ</rt></ruby>の<ruby><rb>運送</rb><rt>うんそう</rt></ruby>などに<ruby><rb>関</rb><rt>かん</rt></ruby>する<ruby><rb>仕事</rb><rt>しごと</rt></ruby>をする<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>役所</rb><rt>やくしょ</rt></ruby>。<ruby><rb>国交省</rb><rt>こっこうしょう</rt></ruby>。",
+          "hyouki": [
+            "国土交通省"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "エンジンがなく、<ruby><rb>他</rb><rt>た</rt></ruby>の<ruby><rb>車</rb><rt>くるま</rt></ruby>に<ruby><rb>引</rb><rt>ひ</rt></ruby>かれる<ruby><rb>形</rb><rt>かたち</rt></ruby>で<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>運</rb><rt>はこ</rt></ruby>ぶ<ruby><rb>車</rb><rt>くるま</rt></ruby>。",
+          "hyouki": [
+            "トレーラー"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>結</rb><rt>むす</rt></ruby>びつけて、はなれないようにする。つなぐ。",
+          "hyouki": [
+            "つなげる"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>結</rb><rt>むす</rt></ruby>びつけて、はなれないようにする。つなぐ。",
+          "hyouki": [
+            "つなげる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>願</rb><rt>ねが</rt></ruby>い<ruby><rb>出</rb><rt>で</rt></ruby>ていたことを、よいと<ruby><rb>許</rb><rt>ゆる</rt></ruby>すこと。<ruby><rb>許</rb><rt>ゆる</rt></ruby>し。",
+          "hyouki": [
+            "許可"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>が<ruby><rb>速</rb><rt>はや</rt></ruby>く<ruby><rb>走</rb><rt>はし</rt></ruby>れるように、<ruby><rb>立体交差</rb><rt>りったいこうさ</rt></ruby>にしたり、<ruby><rb>上</rb><rt>のぼ</rt></ruby>り<ruby><rb>下</rb><rt>くだ</rt></ruby>りを<ruby><rb>分</rb><rt>わ</rt></ruby>けたりした<ruby><rb>道路</rb><rt>どうろ</rt></ruby>。ハイウエー。",
+          "hyouki": [
+            "高速道路"
+          ]
+        }
+      ]
+    }
+  }
+}

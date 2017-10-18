@@ -1,0 +1,122 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "たがいに<ruby><rb>話</rb><rt>はな</rt></ruby>す。",
+          "hyouki": [
+            "話し合う"
+          ]
+        },
+        {
+          "def": "<ruby><rb>意見</rb><rt>いけん</rt></ruby>を<ruby><rb>出</rb><rt>だ</rt></ruby>し<ruby><rb>合</rb><rt>あ</rt></ruby>う。",
+          "hyouki": [
+            "話し合う"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>先頭</rb><rt>せんとう</rt></ruby>。<ruby><rb>真</rb><rt>ま</rt></ruby>っ<ruby><rb>先</rb><rt>さき</rt></ruby>。<ruby><rb>一番</rb><rt>いちばん</rt></ruby>。",
+          "hyouki": [
+            "トップ"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>地位</rb><rt>ちい</rt></ruby>や<ruby><rb>役目</rb><rt>やくめ</rt></ruby>を<ruby><rb>利用</rb><rt>りよう</rt></ruby>して、お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>品物</rb><rt>しなもの</rt></ruby>を<ruby><rb>自分</rb><rt>じぶん</rt></ruby>のものにすること。",
+          "hyouki": [
+            "汚職"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "お<ruby><rb>金</rb><rt>かね</rt></ruby>や<ruby><rb>物</rb><rt>もの</rt></ruby>が<ruby><rb>少</rb><rt>すこ</rt></ruby>ししかなく、<ruby><rb>暮</rb><rt>く</rt></ruby>らしに<ruby><rb>困</rb><rt>こま</rt></ruby>る。<ruby><rb>貧乏</rb><rt>びんぼう</rt></ruby>だ。",
+          "hyouki": [
+            "貧しい"
+          ]
+        },
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>ない。とぼしい。",
+          "hyouki": [
+            "貧しい"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>事件</rb><rt>じけん</rt></ruby>や<ruby><rb>問題</rb><rt>もんだい</rt></ruby>がうまくかたづくこと。",
+          "hyouki": [
+            "解決"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>栄</rb><rt>さか</rt></ruby>えていくこと。<ruby><rb>勢</rb><rt>いきお</rt></ruby>いが、のび<ruby><rb>広</rb><rt>ひろ</rt></ruby>がること。",
+          "hyouki": [
+            "発展"
+          ]
+        },
+        {
+          "def": "<ruby><rb>次</rb><rt>つぎ</rt></ruby>の<ruby><rb>段階</rb><rt>だんかい</rt></ruby>に<ruby><rb>進</rb><rt>すす</rt></ruby>むこと。",
+          "hyouki": [
+            "発展"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>が<ruby><rb>労働</rb><rt>ろうどう</rt></ruby>に<ruby><rb>応</rb><rt>おう</rt></ruby>じて<ruby><rb>利益</rb><rt>りえき</rt></ruby>が<ruby><rb>得</rb><rt>え</rt></ruby>られ、<ruby><rb>資本家</rb><rt>しほんか</rt></ruby>と<ruby><rb>労働者</rb><rt>ろうどうしゃ</rt></ruby>の<ruby><rb>対立</rb><rt>たいりつ</rt></ruby>をなくそうとする<ruby><rb>考</rb><rt>かんが</rt></ruby>え<ruby><rb>方</rb><rt>かた</rt></ruby>。",
+          "hyouki": [
+            "社会主義"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "いちばん<ruby><rb>高</rb><rt>たか</rt></ruby>いこと。",
+          "hyouki": [
+            "最高"
+          ]
+        },
+        {
+          "def": "いちばんよいこと。",
+          "hyouki": [
+            "最高"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "<ruby><rb>会社</rb><rt>かいしゃ</rt></ruby>・<ruby><rb>団体</rb><rt>だんたい</rt></ruby>などの<ruby><rb>中心</rb><rt>ちゅうしん</rt></ruby>になる<ruby><rb>人々</rb><rt>ひとびと</rt></ruby>。",
+          "hyouki": [
+            "幹部"
+          ]
+        }
+      ]
+    }
+  }
+}
