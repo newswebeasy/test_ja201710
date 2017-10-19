@@ -1,0 +1,80 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "イギリス・ドイツ・フランスなどヨーロッパの<ruby><rb>国々</rb><rt>くにぐに</rt></ruby>が、<ruby><rb>共同</rb><rt>きょうどう</rt></ruby>で<ruby><rb>国</rb><rt>くに</rt></ruby>の<ruby><rb>安全</rb><rt>あんぜん</rt></ruby>をはかったり<ruby><rb>経済</rb><rt>けいざい</rt></ruby>を<ruby><rb>運営</rb><rt>うんえい</rt></ruby>したりしようとする<ruby><rb>組織</rb><rt>そしき</rt></ruby>。",
+          "hyouki": [
+            "EU"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>作</rb><rt>つく</rt></ruby>った<ruby><rb>品物</rb><rt>しなもの</rt></ruby>。",
+          "hyouki": [
+            "製品"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>鉄鉱石</rb><rt>てっこうせき</rt></ruby>から<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>出</rb><rt>だ</rt></ruby>した<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。かたくて<ruby><rb>使</rb><rt>つか</rt></ruby>いみちが<ruby><rb>広</rb><rt>ひろ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "かたくて<ruby><rb>強</rb><rt>つよ</rt></ruby>い。",
+          "hyouki": [
+            "鉄"
+          ]
+        },
+        {
+          "def": "<ruby><rb>鉄道</rb><rt>てつどう</rt></ruby>のこと。",
+          "hyouki": [
+            "鉄"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>銀色</rb><rt>ぎんいろ</rt></ruby>の、<ruby><rb>軽</rb><rt>かる</rt></ruby>くてさびにくい<ruby><rb>金属</rb><rt>きんぞく</rt></ruby>。<ruby><rb>窓</rb><rt>まど</rt></ruby>わくや、<ruby><rb>食器</rb><rt>しょっき</rt></ruby>などに<ruby><rb>使</rb><rt>つか</rt></ruby>われる。<ruby><rb>酸</rb><rt>さん</rt></ruby>に<ruby><rb>弱</rb><rt>よわ</rt></ruby>い。アルミ。",
+          "hyouki": [
+            "アルミニウム"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>いところがないかを<ruby><rb>調</rb><rt>しら</rt></ruby>べること。",
+          "hyouki": [
+            "検査"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>考</rb><rt>かんが</rt></ruby>えるもとになる<ruby><rb>材料</rb><rt>ざいりょう</rt></ruby>や<ruby><rb>事実</rb><rt>じじつ</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        },
+        {
+          "def": "コンピューターで<ruby><rb>使</rb><rt>つか</rt></ruby>えるように、<ruby><rb>数字</rb><rt>すうじ</rt></ruby>や<ruby><rb>記号</rb><rt>きごう</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>きかえられた<ruby><rb>資料</rb><rt>しりょう</rt></ruby>。",
+          "hyouki": [
+            "データ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "まちがいがないようにする。あやふやな<ruby><rb>点</rb><rt>てん</rt></ruby>を、はっきりさせる。",
+          "hyouki": [
+            "確かめる"
+          ]
+        }
+      ]
+    }
+  }
+}
