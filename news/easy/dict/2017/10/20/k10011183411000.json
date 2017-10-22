@@ -1,0 +1,132 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "ヨーロッパやアフリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>と<ruby><rb>南北</rb><rt>なんぼく</rt></ruby>アメリカ<ruby><rb>大陸</rb><rt>たいりく</rt></ruby>との<ruby><rb>間</rb><rt>あいだ</rt></ruby>にある<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "大西洋"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "ヨーロッパ・アジア・アフリカの<ruby><rb>三大陸</rb><rt>さんたいりく</rt></ruby>に<ruby><rb>囲</rb><rt>かこ</rt></ruby>まれた<ruby><rb>東西</rb><rt>とうざい</rt></ruby>に<ruby><rb>細長</rb><rt>ほそなが</rt></ruby>い<ruby><rb>海</rb><rt>うみ</rt></ruby>。",
+          "hyouki": [
+            "地中海"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>暖</rb><rt>あたた</rt></ruby>かな<ruby><rb>海</rb><rt>うみ</rt></ruby>を<ruby><rb>回遊</rb><rt>かいゆう</rt></ruby>する<ruby><rb>大</rb><rt>おお</rt></ruby>きな<ruby><rb>魚</rb><rt>さかな</rt></ruby>。メバチ・キハダマグロ・クロマグロなどがいる。さし<ruby><rb>身</rb><rt>み</rt></ruby>やすしにして<ruby><rb>食</rb><rt>た</rt></ruby>べる。",
+          "hyouki": [
+            "鮪"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>酢</rb><rt>す</rt></ruby>で<ruby><rb>味</rb><rt>あじ</rt></ruby>をつけたご<ruby><rb>飯</rb><rt>はん</rt></ruby>に、<ruby><rb>魚</rb><rt>さかな</rt></ruby>や、<ruby><rb>貝</rb><rt>かい</rt></ruby>・<ruby><rb>野菜</rb><rt>やさい</rt></ruby>などをのせたり、<ruby><rb>混</rb><rt>ま</rt></ruby>ぜたりした<ruby><rb>食</rb><rt>た</rt></ruby>べ<ruby><rb>物</rb><rt>もの</rt></ruby>。にぎりずし・<ruby><rb>巻</rb><rt>ま</rt></ruby>きずし・ちらしずしなど。",
+          "hyouki": [
+            "鮨・",
+            "鮓・",
+            "寿司"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>世界</rb><rt>せかい</rt></ruby>の<ruby><rb>六大州</rb><rt>ろくだいしゅう</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。アジアの<ruby><rb>北西</rb><rt>ほくせい</rt></ruby>、アフリカの<ruby><rb>北</rb><rt>きた</rt></ruby>にある。<ruby><rb>産業</rb><rt>さんぎょう</rt></ruby>や<ruby><rb>文化</rb><rt>ぶんか</rt></ruby>が<ruby><rb>発達</rb><rt>はったつ</rt></ruby>した<ruby><rb>国</rb><rt>くに</rt></ruby>が<ruby><rb>多</rb><rt>おお</rt></ruby>い。",
+          "hyouki": [
+            "ヨーロッパ"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>委員</rb><rt>いいん</rt></ruby>が<ruby><rb>集</rb><rt>あつ</rt></ruby>まって、<ruby><rb>相談</rb><rt>そうだん</rt></ruby>したりものごとを<ruby><rb>決</rb><rt>き</rt></ruby>めたりする<ruby><rb>会</rb><rt>かい</rt></ruby>。",
+          "hyouki": [
+            "委員会"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "かさ。ますめ。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "ものをはかる。",
+          "hyouki": [
+            "量"
+          ]
+        },
+        {
+          "def": "<ruby><rb>心</rb><rt>こころ</rt></ruby>の<ruby><rb>広</rb><rt>ひろ</rt></ruby>さ。<ruby><rb>能力</rb><rt>のうりょく</rt></ruby>の<ruby><rb>大</rb><rt>おお</rt></ruby>きさ。",
+          "hyouki": [
+            "量"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "<ruby><rb>少</rb><rt>すく</rt></ruby>なくする。",
+          "hyouki": [
+            "減らす"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "ちかう。<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>決</rb><rt>き</rt></ruby>める。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "<ruby><rb>縮</rb><rt>ちぢ</rt></ruby>める。<ruby><rb>省</rb><rt>はぶ</rt></ruby>く。<ruby><rb>簡単</rb><rt>かんたん</rt></ruby>にする。",
+          "hyouki": [
+            "約"
+          ]
+        },
+        {
+          "def": "おおよそ。ほぼ。だいたい。",
+          "hyouki": [
+            "約"
+          ]
+        }
+      ],
+      "0009": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0010": [
+        {
+          "def": "ある<ruby><rb>範囲</rb><rt>はんい</rt></ruby>に<ruby><rb>区切</rb><rt>くぎ</rt></ruby>られた<ruby><rb>土地</rb><rt>とち</rt></ruby>。",
+          "hyouki": [
+            "地域"
+          ]
+        }
+      ]
+    }
+  }
+}

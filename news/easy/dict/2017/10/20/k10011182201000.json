@@ -1,0 +1,58 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>力</rb><rt>ちから</rt></ruby>。<ruby><rb>馬力</rb><rt>ばりき</rt></ruby>。<ruby><rb>権力</rb><rt>けんりょく</rt></ruby>。<ruby><rb>軍事力</rb><rt>ぐんじりょく</rt></ruby>。",
+          "hyouki": [
+            "パワー"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>歯車</rb><rt>はぐるま</rt></ruby>。",
+          "hyouki": [
+            "ギア"
+          ]
+        },
+        {
+          "def": "<ruby><rb>自動車</rb><rt>じどうしゃ</rt></ruby>や<ruby><rb>自転車</rb><rt>じてんしゃ</rt></ruby>などの<ruby><rb>変速装置</rb><rt>へんそくそうち</rt></ruby>。",
+          "hyouki": [
+            "ギア"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>物</rb><rt>もの</rt></ruby>を<ruby><rb>作</rb><rt>つく</rt></ruby>るときに、<ruby><rb>形</rb><rt>かたち</rt></ruby>や<ruby><rb>色</rb><rt>いろ</rt></ruby>などを<ruby><rb>工夫</rb><rt>くふう</rt></ruby>すること。",
+          "hyouki": [
+            "デザイン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>図案</rb><rt>ずあん</rt></ruby>。<ruby><rb>意匠</rb><rt>いしょう</rt></ruby>。",
+          "hyouki": [
+            "デザイン"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>世</rb><rt>よ</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>人</rb><rt>ひと</rt></ruby>たちのよい<ruby><rb>評判</rb><rt>ひょうばん</rt></ruby>。",
+          "hyouki": [
+            "人気"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "アジアの<ruby><rb>南東部</rb><rt>なんとうぶ</rt></ruby>。ベトナム・ラオス・カンボジア・マレーシア・タイ・ミャンマー・インドネシア・フィリピンなどの<ruby><rb>国</rb><rt>くに</rt></ruby>がある。",
+          "hyouki": [
+            "東南アジア"
+          ]
+        }
+      ]
+    }
+  }
+}

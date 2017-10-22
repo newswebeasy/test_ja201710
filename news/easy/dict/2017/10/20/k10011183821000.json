@@ -1,0 +1,138 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "さけぶ。わめく。",
+          "hyouki": [
+            "号"
+          ]
+        },
+        {
+          "def": "しるし。<ruby><rb>合図</rb><rt>あいず</rt></ruby>。",
+          "hyouki": [
+            "号"
+          ]
+        },
+        {
+          "def": "<ruby><rb>呼</rb><rt>よ</rt></ruby>び<ruby><rb>名</rb><rt>な</rt></ruby>。",
+          "hyouki": [
+            "号"
+          ]
+        },
+        {
+          "def": "<ruby><rb>数字</rb><rt>すうじ</rt></ruby>につけて、<ruby><rb>順番</rb><rt>じゅんばん</rt></ruby>を<ruby><rb>表</rb><rt>あらわ</rt></ruby>す。",
+          "hyouki": [
+            "号"
+          ]
+        },
+        {
+          "def": "<ruby><rb>作家</rb><rt>さっか</rt></ruby>や<ruby><rb>画家</rb><rt>がか</rt></ruby>などが、<ruby><rb>本名</rb><rt>ほんみょう</rt></ruby>のほかにつける<ruby><rb>名前</rb><rt>なまえ</rt></ruby>。",
+          "hyouki": [
+            "号"
+          ]
+        },
+        {
+          "def": "<ruby><rb>列車</rb><rt>れっしゃ</rt></ruby>や<ruby><rb>船</rb><rt>ふね</rt></ruby>などの<ruby><rb>名前</rb><rt>なまえ</rt></ruby>のあとにつけることば。",
+          "hyouki": [
+            "号"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "<ruby><rb>日本</rb><rt>にっぽん</rt></ruby>の<ruby><rb>南西部</rb><rt>なんせいぶ</rt></ruby>にある<ruby><rb>地方</rb><rt>ちほう</rt></ruby>。<ruby><rb>福岡</rb><rt>ふくおか</rt></ruby>・<ruby><rb>佐賀</rb><rt>さが</rt></ruby>・<ruby><rb>長崎</rb><rt>ながさき</rt></ruby>・<ruby><rb>熊本</rb><rt>くまもと</rt></ruby>・<ruby><rb>大分</rb><rt>おおいた</rt></ruby>・<ruby><rb>宮崎</rb><rt>みやざき</rt></ruby>・<ruby><rb>鹿児島</rb><rt>かごしま</rt></ruby>・<ruby><rb>沖縄</rb><rt>おきなわ</rt></ruby>の八<ruby><rb>県</rb><rt>けん</rt></ruby>がある。",
+          "hyouki": [
+            "九州地方"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>日本列島</rb><rt>にっぽんれっとう</rt></ruby>の<ruby><rb>中</rb><rt>なか</rt></ruby>で、いちばん<ruby><rb>大</rb><rt>おお</rt></ruby>きい<ruby><rb>島</rb><rt>しま</rt></ruby>。",
+          "hyouki": [
+            "本州"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>海</rb><rt>うみ</rt></ruby>などの<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が、<ruby><rb>高</rb><rt>たか</rt></ruby>くなったり<ruby><rb>低</rb><rt>ひく</rt></ruby>くなったりすること。また、<ruby><rb>水面</rb><rt>すいめん</rt></ruby>が<ruby><rb>高</rb><rt>たか</rt></ruby>く<ruby><rb>盛</rb><rt>も</rt></ruby>り<ruby><rb>上</rb><rt>あ</rt></ruby>がっている<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "ものごとの<ruby><rb>調子</rb><rt>ちょうし</rt></ruby>が、<ruby><rb>上</rb><rt>あ</rt></ruby>がったり<ruby><rb>下</rb><rt>さ</rt></ruby>がったり、また、よくなったり<ruby><rb>悪</rb><rt>わる</rt></ruby>くなったりすること。",
+          "hyouki": [
+            "波"
+          ]
+        },
+        {
+          "def": "つぎつぎとおし<ruby><rb>寄</rb><rt>よ</rt></ruby>せるものをたとえていうことば。",
+          "hyouki": [
+            "波"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>山</rb><rt>やま</rt></ruby>や<ruby><rb>海岸</rb><rt>かいがん</rt></ruby>などの、けずり<ruby><rb>取</rb><rt>と</rt></ruby>られて<ruby><rb>険</rb><rt>けわ</rt></ruby>しい<ruby><rb>所</rb><rt>ところ</rt></ruby>。",
+          "hyouki": [
+            "崖"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "こわれて<ruby><rb>落</rb><rt>お</rt></ruby>ちる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "ばらばらになる。<ruby><rb>乱</rb><rt>みだ</rt></ruby>れる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>悪</rb><rt>わる</rt></ruby>くなる。",
+          "hyouki": [
+            "崩れる"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "いっぱいになって、こぼれる。",
+          "hyouki": [
+            "あふれる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>満</rb><rt>み</rt></ruby>ち<ruby><rb>満</rb><rt>み</rt></ruby>ちている。いっぱいである。",
+          "hyouki": [
+            "あふれる"
+          ]
+        }
+      ],
+      "0007": [
+        {
+          "def": "できごとやものごとのようすについての<ruby><rb>知</rb><rt>し</rt></ruby>らせ。",
+          "hyouki": [
+            "情報"
+          ]
+        }
+      ],
+      "0008": [
+        {
+          "def": "インターネットで、ひとまとまりの<ruby><rb>情報</rb><rt>じょうほう</rt></ruby>が<ruby><rb>置</rb><rt>お</rt></ruby>かれている<ruby><rb>場所</rb><rt>ばしょ</rt></ruby>。サイト。",
+          "hyouki": [
+            "ウェブサイト"
+          ]
+        }
+      ]
+    }
+  }
+}

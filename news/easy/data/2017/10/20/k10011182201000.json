@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011182201000",
+  "news_prearranged_time": "2017-10-20 11:30:00",
+  "title": "ホンダ　生産した「スーパーカブ」が１億台になる",
+  "title_with_ruby": "ホンダ　<ruby>生産<rt>せいさん</rt></ruby>した「スーパーカブ」が１<ruby>億<rt>おく</rt></ruby><ruby>台<rt>だい</rt></ruby>になる",
+  "outline_with_ruby": "<p>「スーパーカブ」は１９５８<ruby>年<rt>ねん</rt></ruby>からホンダが<ruby>作<rt>つく</rt></ruby>っているオートバイです。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171019/../20171019/K10011182201_1710190003_1710190411_01_02.jpg",
+  "news_web_movie_uri": "k10011182201_201710190518_201710190526.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011182201000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011182201000/k10011182201000.html"
+}

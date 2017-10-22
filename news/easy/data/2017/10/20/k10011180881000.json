@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011180881000",
+  "news_prearranged_time": "2017-10-20 11:30:00",
+  "title": "今年はサケがとれない　イクラの値段が上がる",
+  "title_with_ruby": "<ruby>今年<rt>ことし</rt></ruby>はサケがとれない　イクラの<ruby>値段<rt>ねだん</rt></ruby>が<ruby>上<rt>あ</rt></ruby>がる",
+  "outline_with_ruby": "<p><ruby>秋<rt>あき</rt></ruby>は<a href='javascript:void(0)' class='dicWin' id='id-0000'>サケ</a>がたくさん<a href='javascript:void(0)' class='dicWin' id='id-0002'>とれる</a><ruby>季節<rt>きせつ</rt></ruby>です。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171018/../20171018/K10011180881_1710180033_1710180535_01_02.jpg",
+  "news_web_movie_uri": "k10011180881_201710180739_201710180743.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011180881000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011180881000/k10011180881000.html"
+}

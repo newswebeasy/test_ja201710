@@ -1,0 +1,18 @@
+{
+  "news_id": "k10011183821000",
+  "news_prearranged_time": "2017-10-20 16:15:00",
+  "title": "台風２１号が日本に来る　強い雨や風に気をつけて",
+  "title_with_ruby": "<ruby>台風<rt>たいふう</rt></ruby>２１<ruby>号<rt>ごう</rt></ruby>が<ruby>日本<rt>にっぽん</rt></ruby>に<ruby>来<rt>く</rt></ruby>る　<ruby>強<rt>つよ</rt></ruby>い<ruby>雨<rt>あめ</rt></ruby>や<ruby>風<rt>かぜ</rt></ruby>に<ruby>気<rt>き</rt></ruby>をつけて",
+  "outline_with_ruby": "<p><ruby>台風<rt>たいふう</rt></ruby>２１<a href='javascript:void(0)' class='dicWin' id='id-0000'><ruby>号<rt>ごう</rt></ruby></a>がフィリピンの<ruby>東<rt>ひがし</rt></ruby>の<ruby>海<rt>うみ</rt></ruby>から、<ruby>北<rt>きた</rt></ruby>に<ruby>向<rt>む</rt></ruby>かって<ruby>進<rt>すす</rt></ruby>んでいます。",
+  "has_news_web_image": true,
+  "has_news_web_movie": true,
+  "has_news_easy_image": false,
+  "has_news_easy_movie": false,
+  "has_news_easy_voice": true,
+  "news_web_image_uri": "http://www3.nhk.or.jp/news/html/20171020/../20171020/K10011183821_1710201214_1710201216_01_03.jpg",
+  "news_web_movie_uri": "k10011183821_201710201214_201710201215.mp4",
+  "news_easy_image_uri": "''",
+  "news_easy_movie_uri": "''",
+  "news_easy_voice_uri": "k10011183821000.mp3",
+  "url": "http://www3.nhk.or.jp/news/easy/k10011183821000/k10011183821000.html"
+}
