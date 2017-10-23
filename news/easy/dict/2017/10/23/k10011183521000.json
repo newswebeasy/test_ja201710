@@ -1,0 +1,92 @@
+{
+  "reikai": {
+    "entries": {
+      "0000": [
+        {
+          "def": "<ruby><rb>貨物自動車</rb><rt>かもつじどうしゃ</rt></ruby>。",
+          "hyouki": [
+            "トラック"
+          ]
+        }
+      ],
+      "0001": [
+        {
+          "def": "メートル<ruby><rb>法</rb><rt>ほう</rt></ruby>で、<ruby><rb>重</rb><rt>おも</rt></ruby>さの<ruby><rb>単位</rb><rt>たんい</rt></ruby>の<ruby><rb>一</rb><rt>ひと</rt></ruby>つ。１トンは、１０００キログラム。<ruby><rb>記号</rb><rt>きごう</rt></ruby>は「t」。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>船</rb><rt>ふね</rt></ruby>の<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        },
+        {
+          "def": "<ruby><rb>貨車</rb><rt>かしゃ</rt></ruby>やトラックの<ruby><rb>容積</rb><rt>ようせき</rt></ruby>の<ruby><rb>単位</rb><rt>たんい</rt></ruby>。",
+          "hyouki": [
+            "トン"
+          ]
+        }
+      ],
+      "0002": [
+        {
+          "def": "<ruby><rb>上</rb><rt>うえ</rt></ruby>に<ruby><rb>置</rb><rt>お</rt></ruby>く。",
+          "hyouki": [
+            "載せる"
+          ]
+        },
+        {
+          "def": "<ruby><rb>新聞</rb><rt>しんぶん</rt></ruby>や<ruby><rb>雑誌</rb><rt>ざっし</rt></ruby>などの<ruby><rb>記事</rb><rt>きじ</rt></ruby>にする。",
+          "hyouki": [
+            "載せる"
+          ]
+        }
+      ],
+      "0003": [
+        {
+          "def": "<ruby><rb>蓄電池</rb><rt>ちくでんち</rt></ruby>に<ruby><rb>電気</rb><rt>でんき</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        },
+        {
+          "def": "<ruby><rb>活力</rb><rt>かつりょく</rt></ruby>をたくわえること。",
+          "hyouki": [
+            "充電"
+          ]
+        }
+      ],
+      "0004": [
+        {
+          "def": "<ruby><rb>中</rb><rt>なか</rt></ruby>の<ruby><rb>空気</rb><rt>くうき</rt></ruby>を<ruby><rb>外</rb><rt>そと</rt></ruby>へ<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "排気"
+          ]
+        },
+        {
+          "def": "エンジンなどからガスをはき<ruby><rb>出</rb><rt>だ</rt></ruby>すこと。",
+          "hyouki": [
+            "排気"
+          ]
+        }
+      ],
+      "0005": [
+        {
+          "def": "<ruby><rb>英語</rb><rt>えいご</rt></ruby>の「コンビニエンスストア」の<ruby><rb>略</rb><rt>りゃく</rt></ruby>。<ruby><rb>食料品</rb><rt>しょくりょうひん</rt></ruby>や<ruby><rb>日用品</rb><rt>にちようひん</rt></ruby>が、<ruby><rb>手軽</rb><rt>てがる</rt></ruby>にいつでも<ruby><rb>買</rb><rt>か</rt></ruby>えるように<ruby><rb>開</rb><rt>ひら</rt></ruby>いている、<ruby><rb>小型</rb><rt>こがた</rt></ruby>のスーパー。",
+          "hyouki": [
+            "コンビニ"
+          ]
+        }
+      ],
+      "0006": [
+        {
+          "def": "<ruby><rb>品物</rb><rt>しなもの</rt></ruby>をしまっておく<ruby><rb>建物</rb><rt>たてもの</rt></ruby>。",
+          "hyouki": [
+            "倉庫"
+          ]
+        }
+      ]
+    }
+  }
+}
